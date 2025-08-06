@@ -6,7 +6,7 @@ If you would like to add a  missing project, please create an issue or submit a 
 
 ## Projects
 
-Note: The list is sorted alphabetically. Highly starred projects on GitHub (more than 10 k ⭐) are marked with a (⭐).
+Note: The list is sorted alphabetically. Highly starred projects on GitHub (more than 10k ⭐) are marked with a (⭐).
 
 
 - [Amp](https://amp.rs/docs/)
@@ -60,7 +60,9 @@ Note: The list is sorted alphabetically. Highly starred projects on GitHub (more
 - [OpenSSL](https://docs.openssl.org/) (⭐)
 - [Orchard Core](https://docs.orchardcore.net/en/latest/)
 - [PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/main/en/index.html) (⭐)
+- [PaddlePaddle FastDeploy](https://paddlepaddle.github.io/FastDeploy/)
 - [PaddleX](https://paddlepaddle.github.io/PaddleX/latest/en/index.html)
+- [Paperless-ngx](https://docs.paperless-ngx.com/) (⭐)
 - [Percona](https://docs.percona.com/percona-monitoring-and-management/)
 - [Pi-Hole](https://docs.pi-hole.net/) (⭐)
 - [Polars](https://docs.pola.rs/) (⭐)

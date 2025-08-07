@@ -6,13 +6,16 @@ If you would like to add a  missing project, please create an issue or submit a 
 
 ## Projects
 
-Note: The list is sorted alphabetically. Highly starred projects on GitHub (more than 10k ⭐) are marked with a (⭐).
+Note: The list is sorted alphabetically. Projects on GitHub are marked with one star (⭐) for every 10k stars they have.
 
 
 - [Amp](https://amp.rs/docs/)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [Apache Iceberg](https://iceberg.apache.org/)
 - [Arduino](https://arduino.github.io/arduino-cli/)
 - [Argo CD](https://argo-cd.readthedocs.io/en/stable/) (⭐)
 - [arXiv info](https://info.arxiv.org)
+- [Asahi Linux](https://asahilinux.org/docs/)
 - [Atlassian Data Center Helm Charts](https://atlassian.github.io/data-center-helm-charts/)
 - [Auto-GPT](https://docs.agpt.co/) (⭐)
 - [AutoKeras](https://autokeras.com/)
@@ -30,9 +33,11 @@ Note: The list is sorted alphabetically. Highly starred projects on GitHub (more
 - [eBPF](https://ebpf-go.dev/)
 - [Electron](https://www.electron.build/) (⭐)
 - [FastAPI](https://fastapi.tiangolo.com/) (⭐)
+- [{fmt}](https://fmt.dev/) (⭐)
 - [FlatBuffers](https://flatbuffers.dev/) (⭐)
 - [Freqtrade](https://www.freqtrade.io/en/stable/) (⭐)
 - [Google - Accompanist](https://google.github.io/accompanist/)
+- [Google - Agent Development Kit (ADK)](https://google.github.io/adk-docs/) (⭐)
 - [GoReleaser](https://goreleaser.com/) (⭐)
 - [GraphRAG](https://microsoft.github.io/graphrag/) (⭐)
 - [Harvard - FAS Informatics Group](https://informatics.fas.harvard.edu/)
@@ -49,6 +54,7 @@ Note: The list is sorted alphabetically. Highly starred projects on GitHub (more
 - [Kubernetes Operations (kOps)](https://kops.sigs.k8s.io/) (⭐)
 - [LangGraph](https://langchain-ai.github.io/langgraph/) (⭐)
 - [LeakCanary](https://square.github.io/leakcanary/) (⭐)
+- [LightBurn](https://docs.lightburnsoftware.com/latest/)
 - [LinkedIn - School of SRE](https://linkedin.github.io/school-of-sre/)
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/) (⭐)
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) (⭐)
@@ -59,6 +65,7 @@ Note: The list is sorted alphabetically. Highly starred projects on GitHub (more
 - [Netflix - Titus](https://netflix.github.io/titus/)
 - [NetBox](https://netboxlabs.com/docs/netbox/en/stable/) (⭐)
 - [Nokogiri](https://nokogiri.org/)
+- [OpenAI](https://openai.github.io/openai-agents-python/) (⭐)
 - [OpenFaaS](https://docs.openfaas.com/) (⭐)
 - [OpenSSL](https://docs.openssl.org/) (⭐)
 - [Orchard Core](https://docs.orchardcore.net/en/latest/)
@@ -95,6 +102,7 @@ Note: The list is sorted alphabetically. Highly starred projects on GitHub (more
 - [Vapor](https://docs.vapor.codes/) (⭐)
 - [vLLM](https://docs.vllm.ai/en/latest/) (⭐)
 - [WebKit](https://docs.webkit.org/)
+- [WezTerm](https://wezterm.org/) (⭐)
 - [WTF](https://wtfutil.com/) (⭐)
 - [ydata-profiling](https://github.com/ydataai/ydata-profiling) (⭐)
 - [Zalando - Skipper](https://opensource.zalando.com/skipper/)

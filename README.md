@@ -62,6 +62,7 @@ Note: The list is sorted alphabetically. Projects on GitHub are marked with one 
 - [MindNLP](https://mindnlp.cqu.ai/)
 - [MindOCR](https://mindspore-lab.github.io/mindocr/)
 - [Mozilla Foundation Engineering Handbook](https://mozillafoundation.github.io/engineering-handbook/)
+- [MSYS2](https://www.msys2.org/)
 - [Netflix - Titus](https://netflix.github.io/titus/)
 - [NetBox](https://netboxlabs.com/docs/netbox/en/stable/) (⭐)
 - [Nokogiri](https://nokogiri.org/)

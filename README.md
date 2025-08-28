@@ -74,6 +74,7 @@ Note: The list is sorted alphabetically. Projects on GitHub are marked with one 
 - [PaddlePaddle FastDeploy](https://paddlepaddle.github.io/FastDeploy/)
 - [PaddleX](https://paddlepaddle.github.io/PaddleX/latest/en/index.html)
 - [Paperless-ngx](https://docs.paperless-ngx.com/) (⭐⭐)
+- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/) (⭐⭐⭐⭐⭐⭐)
 - [Percona](https://docs.percona.com/percona-monitoring-and-management/)
 - [Pi-Hole](https://docs.pi-hole.net/) (⭐⭐⭐⭐⭐)
 - [Polars](https://docs.pola.rs/) (⭐⭐⭐)

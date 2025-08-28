@@ -100,6 +100,7 @@ Note: The list is sorted alphabetically. Projects on GitHub are marked with one 
 - [Uber - Fx](https://uber-go.github.io/fx/)
 - [Ultralytics](https://docs.ultralytics.com/) (⭐⭐⭐⭐)
 - [uv](https://docs.astral.sh/uv/) (⭐⭐⭐⭐⭐⭐)
+- [Vanna](https://vanna.ai/docs/) (⭐⭐)
 - [Vapor](https://docs.vapor.codes/) (⭐⭐)
 - [vLLM](https://docs.vllm.ai/en/latest/) (⭐⭐⭐⭐⭐)
 - [WebKit](https://docs.webkit.org/)

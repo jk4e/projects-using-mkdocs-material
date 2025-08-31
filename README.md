@@ -54,6 +54,7 @@ Note: The list is sorted alphabetically. Projects on GitHub are marked with one 
 - [Kubernetes Operations (kOps)](https://kops.sigs.k8s.io/) (⭐)
 - [LangGraph](https://langchain-ai.github.io/langgraph/) (⭐)
 - [LeakCanary](https://square.github.io/leakcanary/) (⭐⭐)
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) (⭐⭐)
 - [LightBurn](https://docs.lightburnsoftware.com/latest/)
 - [LinkedIn - School of SRE](https://linkedin.github.io/school-of-sre/)
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/) (⭐)

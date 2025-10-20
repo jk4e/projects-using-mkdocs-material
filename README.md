@@ -69,6 +69,7 @@ Note: The list is sorted alphabetically. Projects on GitHub are marked with one 
 - [Netflix - Titus](https://netflix.github.io/titus/)
 - [NetBox](https://netboxlabs.com/docs/netbox/en/stable/) (⭐)
 - [Nokogiri](https://nokogiri.org/)
+- [NVIDIA Jetson AI Lab](https://www.jetson-ai-lab.com/)
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) (⭐)
 - [OpenFaaS](https://docs.openfaas.com/) (⭐⭐)
 - [OpenSSL](https://docs.openssl.org/) (⭐⭐)
